@@ -1,0 +1,15 @@
+{
+  "os": "macOS-15.1.1-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2026-01-08T12:59:06.210567Z",
+  "program": "-m corrupted_mnist.train",
+  "git": {
+    "remote": "https://github.com/MortenKleist/CorruptedMNIST.git",
+    "commit": "3d87f3573607789516457cddebf925547c450cfb"
+  },
+  "email": "s224022@dtu.dk",
+  "root": "/Users/mortenkleist/Documents/DTU/CorruptedMNIST/CorruptedMNIST/src",
+  "host": "MacBook-Pro-tilhrende-Morten-2.local",
+  "executable": "/Users/mortenkleist/miniconda3/envs/my_environment/bin/python",
+  "writerId": "1imf3a1sr669sglmyf1b1qsbapwvl4fw"
+}

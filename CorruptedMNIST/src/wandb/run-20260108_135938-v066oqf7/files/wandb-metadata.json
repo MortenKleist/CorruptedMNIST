@@ -1,0 +1,35 @@
+{
+  "os": "macOS-15.1.1-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2026-01-08T12:59:38.453904Z",
+  "program": "-m corrupted_mnist.train",
+  "git": {
+    "remote": "https://github.com/MortenKleist/CorruptedMNIST.git",
+    "commit": "3d87f3573607789516457cddebf925547c450cfb"
+  },
+  "email": "s224022@dtu.dk",
+  "root": "/Users/mortenkleist/Documents/DTU/CorruptedMNIST/CorruptedMNIST/src",
+  "host": "MacBook-Pro-tilhrende-Morten-2.local",
+  "executable": "/Users/mortenkleist/miniconda3/envs/my_environment/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "198236729344"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M3",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 8,
+    "swapTotalBytes": "18253611008",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "vfk6ziiqi17q6h1phov12jg2cu24zrgp"
+}

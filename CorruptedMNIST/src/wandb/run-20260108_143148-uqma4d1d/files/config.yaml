@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            x8axtpa2odk54plbrwqbzzikv0i8dk2q:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 10
+                    memoryGb: 8
+                    name: Apple M3
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "19327352832"
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "199579262976"
+                email: s224022@dtu.dk
+                executable: /Users/mortenkleist/miniconda3/envs/my_environment/bin/python
+                git:
+                    commit: 3d87f3573607789516457cddebf925547c450cfb
+                    remote: https://github.com/MortenKleist/CorruptedMNIST.git
+                host: MacBook-Pro-tilhrende-Morten-2.local
+                memory:
+                    total: "8589934592"
+                os: macOS-15.1.1-arm64-arm-64bit
+                program: -m corrupted_mnist.train
+                python: CPython 3.11.14
+                root: /Users/mortenkleist/Documents/DTU/CorruptedMNIST/CorruptedMNIST/src
+                startedAt: "2026-01-08T13:31:48.937792Z"
+                writerId: x8axtpa2odk54plbrwqbzzikv0i8dk2q
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 24
+            "4": 3.11.14
+            "5": 0.23.1
+            "12": 0.23.1
+            "13": darwin-arm64
